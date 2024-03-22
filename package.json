@@ -1,0 +1,38 @@
+{
+  "name": "doloreum",
+  "version": "1.0.0",
+  "description": "A lightweight mvvm framework",
+  "main": "dist/standard/dev/yox.js",
+  "module": "dist/standard/dev/yox.esm.js",
+  "jsnext:main": "dist/standard/dev/yox.esm.js",
+  "types": "dist/yox.d.ts",
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JanaBeier/doloreum.git"
+  },
+  "keywords": [
+    "minima",
+    "simple",
+    "magni",
+    "et",
+    "ts",
+    "numquam"
+  ],
+  "author": "MavisHagenes",
+  "license": "MIT",
+  "devDependencies": {
+    "yox-common": "^0.20.0",
+    "yox-config": "^0.3.0",
+    "yox-dom": "^0.2.0",
+    "yox-expression-compiler": "^0.18.0",
+    "yox-observer": "^0.19.0",
+    "yox-snabbdom": "^0.21.0",
+    "yox-template-compiler": "^0.29.0",
+    "yox-type": "^0.2.0"
+  },
+  "homepage": "https://github.com/JanaBeier/doloreum.git"
+}
